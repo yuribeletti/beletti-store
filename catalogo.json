@@ -1,0 +1,55 @@
+{
+  "repo": "yuribeletti/beletti-store",
+  "mensagem": "",
+  "apps": [
+    {
+      "nome": "Beletti Store",
+      "pacote": "br.com.belettitech.store",
+      "tag": "store-",
+      "categoria": "Ferramentas",
+      "resumo": "A loja dos apps Beletti",
+      "descricao": "Instala e atualiza todos os apps Beletti direto das releases do GitHub. Gratuita, sem anúncios e sem coleta de dados.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-store.png"
+    },
+    {
+      "nome": "Beletti TechSuite",
+      "pacote": "br.com.belettitech.suite",
+      "tag": "techsuite-",
+      "categoria": "Ferramentas",
+      "resumo": "Limpeza, apps e segurança do celular",
+      "descricao": "Manutenção do celular: limpador de arquivos e cache, desinstalação de apps em lote, verificação de segurança sem internet e informações do aparelho."
+    },
+    {
+      "nome": "Beletti BabySuite",
+      "pacote": "br.com.belettitech.babysuite",
+      "tag": "babysuite-",
+      "categoria": "Família",
+      "resumo": "Sono, mamadas, fraldas e vacinas do bebê",
+      "descricao": "Acompanhe o bebê: sono com previsão de soneca, mamadas, fraldas, temperatura, remédios, vacinas do calendário oficial e ruído branco. Sincroniza entre os celulares da casa pelo Wi-Fi, sem internet."
+    },
+    {
+      "nome": "Beletti Tube",
+      "pacote": "br.com.beletti.tube",
+      "tag": "tube-",
+      "categoria": "Vídeo",
+      "resumo": "YouTube leve, sem login e sem rastreamento",
+      "descricao": "Cliente alternativo do YouTube: assista sem conta, com recomendações locais, legendas, velocidade e transmissão para a TV."
+    },
+    {
+      "nome": "Calculadora",
+      "pacote": "com.beletti.calculadora",
+      "tag": "calculadora-",
+      "categoria": "Utilitários",
+      "resumo": "Calculadora, conversor e cálculos prontos",
+      "descricao": "Calculadora simples com conversor de unidades, desconto, regra de três, divisão de conta, IMC e álcool ou gasolina."
+    },
+    {
+      "nome": "Relógio",
+      "pacote": "com.beletti.relogio",
+      "tag": "relogio-",
+      "categoria": "Utilitários",
+      "resumo": "Alarmes, cronômetro, timer e widgets",
+      "descricao": "Alarmes com desafio para desligar e feriados, cronômetro com voltas, timer e widgets para a tela inicial."
+    }
+  ]
+}
