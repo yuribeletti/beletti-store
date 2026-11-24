@@ -17,7 +17,8 @@
       "tag": "techsuite-",
       "categoria": "Ferramentas",
       "resumo": "Limpeza, apps e segurança do celular",
-      "descricao": "Manutenção do celular: limpador de arquivos e cache, desinstalação de apps em lote, verificação de segurança sem internet e informações do aparelho."
+      "descricao": "Manutenção do celular: limpador de arquivos e cache, desinstalação de apps em lote, verificação de segurança sem internet e informações do aparelho.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-techsuite.png"
     },
     {
       "nome": "Beletti BabySuite",
@@ -25,7 +26,8 @@
       "tag": "babysuite-",
       "categoria": "Família",
       "resumo": "Sono, mamadas, fraldas e vacinas do bebê",
-      "descricao": "Acompanhe o bebê: sono com previsão de soneca, mamadas, fraldas, temperatura, remédios, vacinas do calendário oficial e ruído branco. Sincroniza entre os celulares da casa pelo Wi-Fi, sem internet."
+      "descricao": "Acompanhe o bebê: sono com previsão de soneca, mamadas, fraldas, temperatura, remédios, vacinas do calendário oficial e ruído branco. Sincroniza entre os celulares da casa pelo Wi-Fi, sem internet.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-babysuite.png"
     },
     {
       "nome": "Beletti Tube",
@@ -33,7 +35,8 @@
       "tag": "tube-",
       "categoria": "Vídeo",
       "resumo": "YouTube leve, sem login e sem rastreamento",
-      "descricao": "Cliente alternativo do YouTube: assista sem conta, com recomendações locais, legendas, velocidade e transmissão para a TV."
+      "descricao": "Cliente alternativo do YouTube: assista sem conta, com recomendações locais, legendas, velocidade e transmissão para a TV.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-tube.png"
     },
     {
       "nome": "Calculadora",
@@ -41,7 +44,8 @@
       "tag": "calculadora-",
       "categoria": "Utilitários",
       "resumo": "Calculadora, conversor e cálculos prontos",
-      "descricao": "Calculadora simples com conversor de unidades, desconto, regra de três, divisão de conta, IMC e álcool ou gasolina."
+      "descricao": "Calculadora simples com conversor de unidades, desconto, regra de três, divisão de conta, IMC e álcool ou gasolina.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-calculadora.png"
     },
     {
       "nome": "Relógio",
@@ -49,7 +53,71 @@
       "tag": "relogio-",
       "categoria": "Utilitários",
       "resumo": "Alarmes, cronômetro, timer e widgets",
-      "descricao": "Alarmes com desafio para desligar e feriados, cronômetro com voltas, timer e widgets para a tela inicial."
+      "descricao": "Alarmes com desafio para desligar e feriados, cronômetro com voltas, timer e widgets para a tela inicial.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-relogio.png"
+    },
+    {
+      "nome": "Beletti CellSuite",
+      "pacote": "br.com.belettitech.cellsuite",
+      "tag": "cellsuite-",
+      "categoria": "Coleção",
+      "resumo": "Catálogo da coleção de celulares",
+      "descricao": "Catalogue sua coleção de celulares: fotos de cada aparelho, busca \"Já tenho?\", modo de verificação, vendidos e trocados, estatísticas e backup.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-cellsuite.png"
+    },
+    {
+      "nome": "Beletti FilesSuite",
+      "pacote": "br.com.belettitech.filessuite",
+      "tag": "filessuite-",
+      "categoria": "Ferramentas",
+      "resumo": "Gerenciador de arquivos sem propaganda",
+      "descricao": "Gerenciador de arquivos completo: categorias, busca, limpeza de espaço, lixeira, cofre com senha, ZIP e acesso pela rede via FTP ou navegador.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-filessuite.png"
+    },
+    {
+      "nome": "Beletti HomeSuite",
+      "pacote": "br.com.beletti.homesuite",
+      "tag": "homesuite-",
+      "categoria": "Personalização",
+      "resumo": "Tela inicial nos estilos macOS, Windows e Linux",
+      "descricao": "Launcher com cinco estilos num só app: macOS, Windows 11, Windows XP, Ubuntu e Linux Mint, com dock, widgets, central de notificações e controles rápidos.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-homesuite.png"
+    },
+    {
+      "nome": "Beletti NetworkSuite",
+      "pacote": "br.com.belettitech.networksuite",
+      "tag": "networksuite-",
+      "categoria": "Rede",
+      "resumo": "Scanner de rede e ferramentas de Wi-Fi",
+      "descricao": "Descubra os aparelhos da sua rede, teste a velocidade, analise o Wi-Fi e a segurança, e use ping, portas, traceroute, DNS e Wake on LAN.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-networksuite.png"
+    },
+    {
+      "nome": "PDF Suite",
+      "pacote": "com.beletti.pdfsuite",
+      "tag": "pdfsuite-",
+      "categoria": "Documentos",
+      "resumo": "Leitor de PDF leve que copia boletos e Pix",
+      "descricao": "Leitor de PDF rápido e sem propaganda: acha sozinho os PDFs do celular, busca no texto, modo noturno, PDF com senha e botão para copiar o código de boletos e Pix.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-pdfsuite.png"
+    },
+    {
+      "nome": "Scanner",
+      "pacote": "br.com.belettitech.scanner",
+      "tag": "scanner-",
+      "categoria": "Documentos",
+      "resumo": "Digitalize documentos em PDF com texto",
+      "descricao": "Scanner de documentos: detecta a folha, captura automática, filtros, reconhecimento de texto, PDF de várias páginas, modo RG/CNH, assinatura e QR code. Funciona sem internet.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-scanner.png"
+    },
+    {
+      "nome": "Telefone",
+      "pacote": "br.com.belettitech.telefone",
+      "tag": "telefone-",
+      "categoria": "Comunicação",
+      "resumo": "Ligações, contatos e bloqueio de spam",
+      "descricao": "Telefone completo com bloqueio de telemarketing (0303), números ocultos e desconhecidos, lista de bloqueio por número ou prefixo e liberação de quem insiste.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-telefone.png"
     }
   ]
 }
