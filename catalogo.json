@@ -118,6 +118,15 @@
       "resumo": "Ligações, contatos e bloqueio de spam",
       "descricao": "Telefone completo com bloqueio de telemarketing (0303), números ocultos e desconhecidos, lista de bloqueio por número ou prefixo e liberação de quem insiste.",
       "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-telefone.png"
+    },
+    {
+      "nome": "Notas",
+      "pacote": "com.beletti.notas",
+      "tag": "notas-1-",
+      "categoria": "Utilitários",
+      "resumo": "Notas e tarefas de um jeito simples",
+      "descricao": "## Notas 1.1\n\n### Novidades\n- **Pronto para backup pelo Beletti Store:** agora o Beletti Store consegue fazer backup e restaurar suas notas, tarefas, pastas e configurações, direto pela aba **Backup** da loja.\n- Ao restaurar, os lembretes das tarefas são reagendados automaticamente.\n\n### Segurança\n- Só o Beletti Store oficial (verificado pela assinatura) pode pedir o backup. Qualquer outro app é bloqueado.\n- O backup só é restaurado se for do próprio Notas.\n- Continua sem anúncios, sem conta e sem coleta de dados: tudo fica no seu celular.\n\n### Instalação\n- Atualize pelo **Beletti Store** ou baixe o `Notas-v1.1.apk` abaixo.\n- Instala por cima da versão 1.0 sem perder nada.\n- Requer Android 8.0 ou superior. O backup pelo Beletti Store funciona a partir do Android 9.\n\n---\nDesenvolvido por **Yuri Beletti** em parceria com **Claude (Anthropic)**.",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-notas-1.png"
     }
   ]
 }
