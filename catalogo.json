@@ -136,6 +136,15 @@
       "resumo": "Galeria de Fotos e Vídeos",
       "descricao": "## Galeria 1.1\n\n### Novidades\n- **Pronto para backup no Beletti Store:** agora a loja consegue fazer backup e restaurar os ajustes do Galeria pela aba Backup.\n- O backup guarda só os ajustes do app (como a ordem dos apps mais usados no painel de compartilhar). Suas fotos e vídeos continuam no aparelho e não entram no backup.\n- Só o Beletti Store oficial pode acessar o backup: qualquer outro app é recusado.\n\n### Recursos do app\n- Fotos, Álbuns, Vídeos e Favoritos, com resumo de fotos, vídeos e espaço usado no topo\n- Arraste qualquer foto ou vídeo para cima para compartilhar (apps mais usados primeiro)\n- Envio de fotos, seleções ou álbuns inteiros ao Google Fotos\n- Zoom com pinça e toque duplo, player de vídeo, editar e definir como papel de parede\n- Pinça na grade para mudar o número de colunas\n- Lixeira de 30 dias com opção de restaurar\n- Gratuito, sem anúncios e sem coleta de dados\n\n### Instalação\nBaixe o **Galeria-1.1.apk** abaixo e instale, ou atualize direto pelo Beletti Store. Se v",
       "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-galeria-1.png"
+    },
+    {
+      "nome": "Teto Tendas",
+      "pacote": "br.com.belettitech.tetotendas",
+      "tag": "tetotendas-1-",
+      "categoria": "Ferramentas",
+      "resumo": "Para controle de estoque de uma empresa de tendas",
+      "descricao": "## Teto Tendas 1.5\n\n**Novidade: backup pelo Beletti Store**\n- O Teto Tendas agora aparece como **\"pronto para backup\"** na aba Backup do Beletti Store.\n- O Store pode salvar e restaurar todos os dados do app: estoque, modelos de tenda e receitas, saídas, retornos e histórico.\n- Só o Beletti Store oficial consegue acessar esse backup. Qualquer outro app é recusado.\n- Depois de uma restauração, o app reinicia sozinho já com os dados restaurados.\n\n**Continua igual**\n- O backup manual em *Sobre → Salvar backup / Restaurar* segue funcionando.\n- Nenhuma mudança nas telas nem no cálculo de material.\n\n\nCriado por Beletti TechSuite · Yuri Beletti e Claude (Anthropic)",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-tetotendas-1.png"
     }
   ]
 }
