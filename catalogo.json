@@ -154,6 +154,15 @@
       "resumo": "Controle de frota",
       "descricao": "## Premont Frota 1.0.3\n\n### Novidades\n- **Pronto para backup no Beletti Store.** O app agora tem a \"portinha de backup\" Beletti: o Beletti Store consegue fazer backup e restaurar os dados do Premont Frota pela aba Backup.\n  - O backup leva o banco de dados da frota (veículos, saídas e retornos, manutenção, abastecimentos, multas e documentos), as configurações e as fotos (painel, avarias e notificações de multa).\n  - Só o Beletti Store, assinado com o certificado oficial, pode pedir o backup ou a restauração. Qualquer outro app é recusado.\n  - Depois de restaurar, o app reinicia sozinho com os dados recuperados.\n- O backup próprio do app (Mais › Backup) e o backup diário do servidor continuam funcionando como antes.\n\n### Inclui também (1.0.1 e 1.0.2)\n- Novo ícone com o símbolo da Premont e o B no baú.\n- Intervalo de cada item de manutenção editável (km, meses e dias), já no cadastro do veículo.\n- Aviso antecipado configurável por item (ex.: troca a cada 10.000 km, avisar 1.000 km antes).\n- Ao registrar uma troca, o km real do serviço define a próxima troca, e o app mostra a próxima troca e o aviso na hora.\n\n### Instalação\nInstala por cima da versão anterior, sem perder dados (mesma assinatura).\n\nPacote: `com.beletti.premontfrota` · versionCode 4 · Android 8.0 ou superior\nCriado por Yuri Beletti e Claude.",
       "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-premontfrota-1.png"
+    },
+    {
+      "nome": "CampSuite",
+      "pacote": "br.com.belettitech.campsuite",
+      "tag": "campsuite-1-",
+      "categoria": "Utilitários",
+      "resumo": "Organize seu Camping sem complicação",
+      "descricao": "## Beletti CampSuite 1.1\n\n**Novidade: backup pelo Beletti Store**\n- O CampSuite agora aparece como \"pronto para backup\" na aba Backup do Beletti Store.\n- A loja salva e restaura suas viagens, checklists, lembretes, favoritos e a lista padrão.\n- Depois de restaurar, os lembretes das viagens são reagendados sozinhos.\n- Só o Beletti Store oficial consegue pedir o backup; qualquer outro app é bloqueado.\n- O backup em arquivo (aba Mais) continua funcionando como antes.\n\n**Instalação**\n- Instala por cima da versão 1.0, sem perder nada (mesma assinatura).\n- Android 8.0 ou mais novo.\n\nSem anúncios, sem rastreadores e sem cadastro. Criado por Yuri Beletti e Claude (Anthropic).",
+      "icone": "https://raw.githubusercontent.com/yuribeletti/beletti-store/main/icone-campsuite-1.png"
     }
   ]
 }
